@@ -3,8 +3,8 @@ email: ganandhuk@gmail.com
 description: >- 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Anandhu56434891
+github_username:  anandhuk
 
 # Build settings
 theme: minima

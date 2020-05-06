@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Anandhu Krishnan 
-permalink: /about/
 ---
 
 Hi, I'm Anandhu Krishnan
